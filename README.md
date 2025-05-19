@@ -7,12 +7,6 @@ A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScr
 
 ---
 
-## 📸 Preview
-
-![Weather App Screenshot](preview.png) <!-- You can add a screenshot named preview.png in the repo -->
-
----
-
 ## ⚙️ Features
 
 - 🔍 Search for any city and get current weather data
